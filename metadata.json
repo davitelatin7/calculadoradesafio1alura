@@ -1,0 +1,6 @@
+{
+  "name": "AdaptStudy",
+  "description": "O app de estudos que se adapta à sua vida, não o contrário. Planejamento simples, flexível e sustentável de metas de estudo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
